@@ -1,19 +1,76 @@
-Validation of zCFD code using the Second High Lift Prediction Workshop
-======================================================================
+High Lift Prediction Workshop - Validation
+==========================================
 
-Internal report
-A.	Cimpoeru (CFMS), J. Appa and D. Standingford (Zenotech)
+Authors: A. Cimpoeru (CFMS), J. Appa and D. Standingford (Zenotech)
 
 November 2014
 
 Abstract
 --------
-This document summarizes some initial results obtained within the second order benchmarking of a new CFD software. The zCFD code was used for the DLR F11 high lift configuration in order to compute the flow field using the k- ω SST turbulence model. The results consist in high Reynolds number computations for the simplified (CASE 1) respectively complex (CASE 2B) configurations at 7o angle of attack. The results were validated against the numerical solutions obtained using CFD++ and ANSYS FLUENT and showed a good agreement with the experimental data.
+This document summarizes some initial results obtained within the second order benchmarking of a new CFD software. The zCFD code was used for the DLR F11 high lift configuration in order to compute the flow field using the k-ω SST turbulence model. The results consist in high Reynolds number computations for the simplified (CASE 1) respectively complex (CASE 2B) configurations at :math:`7^\circ` angle of attack. The results were validated against the numerical solutions obtained using CFD++ and ANSYS FLUENT and showed a good agreement with the experimental data.
 
 Introduction
 ------------
 The zCFD code is a GPU accelerated high performance computational fluid dynamic software. The zCFD solver is an unstructured cell centered finite volume code which solves explicitly the compressible Navier-Stokes equations. The solution is preconditioned and the convergence is accelerated using the Multigrid technique along with a dual time stepping method. 
-The results consist in high Reynolds number computations using  k- ω SST turbulence model for  the simplified (CASE 1) respectively complex (CASE 2B) configurations at 7o angle of attack. The zCFD solutions were compared with wind tunnel data and other CFD codes such as CFD++ and Ansys FLUENT. These codes were selected since they use the same cell-centered approach in combination with k- ω SST model. 
+The results consist in high Reynolds number computations using  k-ω SST turbulence model for  the simplified (CASE 1) respectively complex (CASE 2B) configurations at :math:`7^\circ` angle of attack. The zCFD solutions were compared with wind tunnel data and other CFD codes such as CFD++ and Ansys FLUENT. These codes were selected since they use the same cell-centered approach in combination with k-ω SST model. 
+
+Results 
+-------
+Case 1, Coarse mesh, Mach = 0.175, Re = 15e06, :math:`\alpha=7^\circ`
+
+.. figure:: images/11.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/44.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/55.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/66.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/77.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/88.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/99.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/10.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
+.. figure:: images/1_11.png
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
 
 
 DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full definition of cutting planes refer to workshop website.

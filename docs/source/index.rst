@@ -9,9 +9,17 @@ Welcome to the HyperFlux Project
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    high-lift-workshop.rst
+
+
+.. figure:: images/FRdiagram.svg
+	:width: 75%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+
 
 Indices and tables
 ==================
