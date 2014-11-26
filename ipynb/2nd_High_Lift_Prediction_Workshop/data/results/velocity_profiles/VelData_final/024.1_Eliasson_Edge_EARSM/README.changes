@@ -1,0 +1,2 @@
+Note: slight mod to case1_iterative.dat to avoid plotting the early coarser grid iterations
+(the numbering restarts on each successive grid sequence)

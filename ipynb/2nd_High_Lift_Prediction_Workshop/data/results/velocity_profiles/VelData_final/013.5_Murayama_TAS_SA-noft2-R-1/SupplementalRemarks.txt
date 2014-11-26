@@ -1,0 +1,5 @@
+The absolute values of aerodynamic forces in "case1_iterative.dat" to
+indicate solution convergence by iteration are slightly different from
+the true values due to a post-processing problem.
+
+16deg: Computations on the fine grid are not completed.

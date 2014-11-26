@@ -1,0 +1,322 @@
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+#   HiLiftPW-2 Velocity DATA SUBMITTAL FORM Case 1 (Version 1), March 2013
+#
+#   CASE 1 is a required grid convergence study at high-Reynolds number conditions.
+#   Config 2 (without Slat Tracks or Flap Track Fairings) should be used.
+#   Two ALPHAs (7 and 16 deg) are required.
+#   Four additional ALPHAs (18.5, 20, 21, and 22.4) are optional.
+#   This case should be run FULLY TURBULENT (no forced transition).
+#
+#   This data file only asks for a subset of information to be reported: AoA=7, 18.5, and 21 on medium and fine grids
+#
+#       NOMENCLATURE:
+#              ALPHA:	Angle of attack, deg.
+#                 FT:   Fully Turbulent
+#                 TR:   Transition specified or computed
+#              X,Y,Z:   Cartesian coordinates, in mm
+#             u/Uinf:   Velocity component in X-direction relative to freestream
+#             v/Uinf:   Velocity component in Y-direction relative to freestream
+#             w/Uinf:   Velocity component in Z-direction relative to freestream
+#
+#                XXX:	Participant ID (To be assigned by HiLiftPW-1 workshop committee)
+#
+#    FLOW CONDITIONS:
+#                 Mach Number: 0.175
+#             Reynolds Number: 15.1 million (based on MAC)
+#             Freestream Temp: 114.0 K (205.2 R)
+#  Freestream Static Pressure: 295000 Pa (42.7861 psi)
+#
+#              NOTES: 1. All numerical data fields can be free-formatted
+#                     2. Please use at least 3 decimal places in the numerical values for velocity
+#                     3. If optional data is NOT provided, please fill data fields with a numerical value of "-999" 
+#                     4. Results are requested for both medium and fine grids
+#                     5. There are no experimental velocity data for these high-Re conditions
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TITLE = "013.02"
+
+VARIABLES = "X" "Y" "Z" "u/Uinf" "v/Uinf" "w/Uinf"
+
+#-----------------------------------------------------------------------------------
+# ALPHA 7, medium grid:
+#-----------------------------------------------------------------------------------
+ZONE T="013.02 case1 a7 medium, p1, wB, line1"
+# extract along Z at X=1162.58, Y=246.386, from wing upper surface to at least 59mm high above surface
+1162.58 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p1, wB, line2"
+# extract along Z at X=1181.87, Y=246.386, from wing upper surface to at least 59mm high above surface
+1181.87 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p1, wC, line1"
+# extract along Z at X=1296.28, Y=246.386, from wing upper surface to at least 59mm high above surface
+1296.28 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p1, wD, line1"
+# extract along Z at X=1461.48, Y=246.386, from wing upper surface to at least 59mm high above surface
+1461.48 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p2, wB, line1"
+# extract along Z at X=1635.09, Y=979.596, from wing upper surface to at least 59mm high above surface
+1635.09 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p2, wB, line2"
+# extract along Z at X=1648.20, Y=979.596, from wing upper surface to at least 59mm high above surface
+1648.20 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p2, wD, line1"
+# extract along Z at X=1749.74, Y=979.596, from wing upper surface to at least 59mm high above surface
+1749.74 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p2, wE, line1"
+# extract along Z at X=1821.37, Y=979.596, from wing upper surface to at least 59mm high above surface
+1821.37 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p2, wE, line2"
+# extract along Z at X=1846.71, Y=979.596, from wing upper surface to at least 59mm high above surface
+1846.71 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p3, wE, line1"
+# extract along Z at X=1921.73, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1921.73 1223.999 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 medium, p3, wE, line2"
+# extract along Z at X=1944.93, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1944.93 1223.999 -999 -999 -999 -999
+
+#-----------------------------------------------------------------------------------
+# ALPHA 7, fine grid:
+#-----------------------------------------------------------------------------------
+ZONE T="013.02 case1 a7 fine, p1, wB, line1"
+# extract along Z at X=1162.58, Y=246.386, from wing upper surface to at least 59mm high above surface
+1162.58 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p1, wB, line2"
+# extract along Z at X=1181.87, Y=246.386, from wing upper surface to at least 59mm high above surface
+1181.87 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p1, wC, line1"
+# extract along Z at X=1296.28, Y=246.386, from wing upper surface to at least 59mm high above surface
+1296.28 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p1, wD, line1"
+# extract along Z at X=1461.48, Y=246.386, from wing upper surface to at least 59mm high above surface
+1461.48 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p2, wB, line1"
+# extract along Z at X=1635.09, Y=979.596, from wing upper surface to at least 59mm high above surface
+1635.09 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p2, wB, line2"
+# extract along Z at X=1648.20, Y=979.596, from wing upper surface to at least 59mm high above surface
+1648.20 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p2, wD, line1"
+# extract along Z at X=1749.74, Y=979.596, from wing upper surface to at least 59mm high above surface
+1749.74 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p2, wE, line1"
+# extract along Z at X=1821.37, Y=979.596, from wing upper surface to at least 59mm high above surface
+1821.37 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p2, wE, line2"
+# extract along Z at X=1846.71, Y=979.596, from wing upper surface to at least 59mm high above surface
+1846.71 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p3, wE, line1"
+# extract along Z at X=1921.73, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1921.73 1223.999 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a7 fine, p3, wE, line2"
+# extract along Z at X=1944.93, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1944.93 1223.999 -999 -999 -999 -999
+
+#-----------------------------------------------------------------------------------
+# ALPHA 18.5, medium grid:
+#-----------------------------------------------------------------------------------
+ZONE T="013.02 case1 a18.5 medium, p1, wB, line1"
+# extract along Z at X=1162.58, Y=246.386, from wing upper surface to at least 59mm high above surface
+1162.58 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p1, wB, line2"
+# extract along Z at X=1181.87, Y=246.386, from wing upper surface to at least 59mm high above surface
+1181.87 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p1, wC, line1"
+# extract along Z at X=1296.28, Y=246.386, from wing upper surface to at least 59mm high above surface
+1296.28 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p1, wD, line1"
+# extract along Z at X=1461.48, Y=246.386, from wing upper surface to at least 59mm high above surface
+1461.48 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p2, wB, line1"
+# extract along Z at X=1635.09, Y=979.596, from wing upper surface to at least 59mm high above surface
+1635.09 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p2, wB, line2"
+# extract along Z at X=1648.20, Y=979.596, from wing upper surface to at least 59mm high above surface
+1648.20 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p2, wD, line1"
+# extract along Z at X=1749.74, Y=979.596, from wing upper surface to at least 59mm high above surface
+1749.74 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p2, wE, line1"
+# extract along Z at X=1821.37, Y=979.596, from wing upper surface to at least 59mm high above surface
+1821.37 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p2, wE, line2"
+# extract along Z at X=1846.71, Y=979.596, from wing upper surface to at least 59mm high above surface
+1846.71 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p3, wE, line1"
+# extract along Z at X=1921.73, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1921.73 1223.999 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 medium, p3, wE, line2"
+# extract along Z at X=1944.93, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1944.93 1223.999 -999 -999 -999 -999
+
+#-----------------------------------------------------------------------------------
+# ALPHA 18.5, fine grid:
+#-----------------------------------------------------------------------------------
+ZONE T="013.02 case1 a18.5 fine, p1, wB, line1"
+# extract along Z at X=1162.58, Y=246.386, from wing upper surface to at least 59mm high above surface
+1162.58 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p1, wB, line2"
+# extract along Z at X=1181.87, Y=246.386, from wing upper surface to at least 59mm high above surface
+1181.87 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p1, wC, line1"
+# extract along Z at X=1296.28, Y=246.386, from wing upper surface to at least 59mm high above surface
+1296.28 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p1, wD, line1"
+# extract along Z at X=1461.48, Y=246.386, from wing upper surface to at least 59mm high above surface
+1461.48 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p2, wB, line1"
+# extract along Z at X=1635.09, Y=979.596, from wing upper surface to at least 59mm high above surface
+1635.09 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p2, wB, line2"
+# extract along Z at X=1648.20, Y=979.596, from wing upper surface to at least 59mm high above surface
+1648.20 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p2, wD, line1"
+# extract along Z at X=1749.74, Y=979.596, from wing upper surface to at least 59mm high above surface
+1749.74 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p2, wE, line1"
+# extract along Z at X=1821.37, Y=979.596, from wing upper surface to at least 59mm high above surface
+1821.37 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p2, wE, line2"
+# extract along Z at X=1846.71, Y=979.596, from wing upper surface to at least 59mm high above surface
+1846.71 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p3, wE, line1"
+# extract along Z at X=1921.73, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1921.73 1223.999 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a18.5 fine, p3, wE, line2"
+# extract along Z at X=1944.93, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1944.93 1223.999 -999 -999 -999 -999
+
+#-----------------------------------------------------------------------------------
+# ALPHA 21, medium grid:
+#-----------------------------------------------------------------------------------
+ZONE T="013.02 case1 a21 medium, p1, wB, line1"
+# extract along Z at X=1162.58, Y=246.386, from wing upper surface to at least 59mm high above surface
+1162.58 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p1, wB, line2"
+# extract along Z at X=1181.87, Y=246.386, from wing upper surface to at least 59mm high above surface
+1181.87 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p1, wC, line1"
+# extract along Z at X=1296.28, Y=246.386, from wing upper surface to at least 59mm high above surface
+1296.28 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p1, wD, line1"
+# extract along Z at X=1461.48, Y=246.386, from wing upper surface to at least 59mm high above surface
+1461.48 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p2, wB, line1"
+# extract along Z at X=1635.09, Y=979.596, from wing upper surface to at least 59mm high above surface
+1635.09 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p2, wB, line2"
+# extract along Z at X=1648.20, Y=979.596, from wing upper surface to at least 59mm high above surface
+1648.20 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p2, wD, line1"
+# extract along Z at X=1749.74, Y=979.596, from wing upper surface to at least 59mm high above surface
+1749.74 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p2, wE, line1"
+# extract along Z at X=1821.37, Y=979.596, from wing upper surface to at least 59mm high above surface
+1821.37 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p2, wE, line2"
+# extract along Z at X=1846.71, Y=979.596, from wing upper surface to at least 59mm high above surface
+1846.71 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p3, wE, line1"
+# extract along Z at X=1921.73, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1921.73 1223.999 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 medium, p3, wE, line2"
+# extract along Z at X=1944.93, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1944.93 1223.999 -999 -999 -999 -999
+
+#-----------------------------------------------------------------------------------
+# ALPHA 21, fine grid:
+#-----------------------------------------------------------------------------------
+ZONE T="013.02 case1 a21 fine, p1, wB, line1"
+# extract along Z at X=1162.58, Y=246.386, from wing upper surface to at least 59mm high above surface
+1162.58 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p1, wB, line2"
+# extract along Z at X=1181.87, Y=246.386, from wing upper surface to at least 59mm high above surface
+1181.87 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p1, wC, line1"
+# extract along Z at X=1296.28, Y=246.386, from wing upper surface to at least 59mm high above surface
+1296.28 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p1, wD, line1"
+# extract along Z at X=1461.48, Y=246.386, from wing upper surface to at least 59mm high above surface
+1461.48 246.386 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p2, wB, line1"
+# extract along Z at X=1635.09, Y=979.596, from wing upper surface to at least 59mm high above surface
+1635.09 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p2, wB, line2"
+# extract along Z at X=1648.20, Y=979.596, from wing upper surface to at least 59mm high above surface
+1648.20 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p2, wD, line1"
+# extract along Z at X=1749.74, Y=979.596, from wing upper surface to at least 59mm high above surface
+1749.74 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p2, wE, line1"
+# extract along Z at X=1821.37, Y=979.596, from wing upper surface to at least 59mm high above surface
+1821.37 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p2, wE, line2"
+# extract along Z at X=1846.71, Y=979.596, from wing upper surface to at least 59mm high above surface
+1846.71 979.596 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p3, wE, line1"
+# extract along Z at X=1921.73, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1921.73 1223.999 -999 -999 -999 -999
+
+ZONE T="013.02 case1 a21 fine, p3, wE, line2"
+# extract along Z at X=1944.93, Y=1223.999, from wing upper surface to at least 59mm high above surface
+1944.93 1223.999 -999 -999 -999 -999
+

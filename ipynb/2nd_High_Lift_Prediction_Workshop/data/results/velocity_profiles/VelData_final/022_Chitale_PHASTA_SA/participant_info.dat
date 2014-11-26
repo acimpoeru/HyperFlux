@@ -1,0 +1,153 @@
+#
+# Participant ID assigned by committee: 022
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s): Kedar Chitale
+#                             Name(s): Jeff Martin
+#                             Name(s): Michel Rasquin
+#                             Name(s): Kenneth Jansen
+#                       Primary Email: kedar.chitale@colorado.edu
+#                               Phone: (518) 596-4750
+#                             Address: 115 S Main St Apt C19, West Hartford, CT 06107 
+#                             Address: 429 UCB Boulder CO 80309
+#                             Address: 429 UCB Boulder CO 80309
+#                             Address: 429 UCB Boulder CO 80309
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name: PHASTA
+#                      Solver Version: Incompressible  
+#                         Method Name: finite elements 
+#                     Basic Algorithm: Stabilized Upwind Petrov Gallerkin (SUPG) 
+#                    Turbulence Model: RANS- Spalart Allmaras (wall resolved)
+#         Transition Method (if used):
+#       Cases transition was used for:
+#                Convergence Criteria: Residuals, CL, CD, non linear iterations, solution ratio
+# List of residuals provided (if any):
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: MeshSim 8.0 
+#                           Grid Type: Unstructured with mixed boundary layers
+#               Number of Total Nodes: 13556925 
+#               Number of Total Cells: 32280377
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall: 0.00055 mm 
+#                 Wall Boundary Nodes: 527509 
+#                 Wall Boundary Faces: 1054846 
+#       BL Max-Growth Rate (if known): 1.249 
+#                 BL Cells (if known): 24342924 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: MeshSim 8.0 
+#                           Grid Type: Unstructured with mixed boundary layers
+#               Number of Total Nodes: 37338968 
+#               Number of Total Cells: 91555540
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall: 0.00037 mm
+#                 Wall Boundary Nodes: 1185967 
+#                 Wall Boundary Faces: 2371440
+#       BL Max-Growth Rate (if known): 1.235
+#                 BL Cells (if known): 65308643 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: MeshSim 8.0 
+#                           Grid Type: Unstructured with mixed boundary layers 
+#               Number of Total Nodes: 112962478 
+#               Number of Total Cells: 287896373
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall: 0.00024 mm 
+#                 Wall Boundary Nodes: 3722651
+#                 Wall Boundary Faces: 5889164
+#       BL Max-Growth Rate (if known): 1.2 
+#                 BL Cells (if known): 191417620 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 2 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: MeshSim 8.0
+#                           Grid Type: Unstructured with mixed boundary layers 
+#               Number of Total Nodes: 39884354
+#               Number of Total Cells: 97909318
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall: 0.00024 mm 
+#                 Wall Boundary Nodes: 1531236
+#                 Wall Boundary Faces: 2502264
+#       BL Max-Growth Rate (if known): 1.235 
+#                 BL Cells (if known): 69684254 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 3 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #: Case 1
+#                   Computer Platform: Intel Westmere
+#                        # Processors: 4200
+#                    Operating System: Redhat 5.5 
+#                            Compiler: Intel 
+#                        Run Time CPU: 100% 
+#                 Run Time Wall-Clock: 1800 sec / 100 timesteps 
+#                 Memory Requirements:  
+#                       Miscellaneous:  
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #: Case 2
+#                   Computer Platform: IBM Blue Gene/Q
+#                        # Processors: 32768
+#                    Operating System:  
+#                            Compiler: Intel 
+#                        Run Time CPU: 100% 
+#                 Run Time Wall-Clock: 800 sec / 100 timesteps 
+#                 Memory Requirements:  
+#                       Miscellaneous:  

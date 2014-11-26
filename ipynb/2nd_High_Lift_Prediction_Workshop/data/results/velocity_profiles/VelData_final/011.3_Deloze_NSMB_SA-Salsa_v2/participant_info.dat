@@ -1,0 +1,117 @@
+#
+# Participant ID assigned by committee: 011
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s): Thibaut Deloze
+#                             Name(s): Eric Laurendeau
+#                             Name(s): Yannick Hoarau
+#                             Name(s): Jan Vos
+#                       Primary Email: thibaut.deloze@polymtl.ca
+#                               Phone:  +1 (514) 340-5121 poste 5942
+#                             Address:  Ecole Polytechnique de Montreal
+#                             Address:  C.P. 6079, Succ.Centre-ville 
+#                             Address:  Montréal (Québec) Canada
+#                             Address:  H3C 3A7
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name: NSMB
+#                      Solver Version: 6.06.a6
+#                         Method Name: Finite volum
+#                     Basic Algorithm: Implicit LU-SGS, central scheme
+#                    Turbulence Model: Spalart-Allmaras salsa
+#         Transition Method (if used): No (Fully turbulent)
+#       Cases transition was used for:
+#                Convergence Criteria: density equation
+# List of residuals provided (if any): all (eq.1,2,3,4,5 and eq. turb.1)
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#
+#         Original Grid of HiLiftPW2 : A_str_1to1_Case1Config2_c
+#
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes: 10,574,995
+#               Number of Total Cells: 9,556,725
+#                     Number of Zones: 320
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#
+#         Original Grid of HiLiftPW2 : A_str_1to1_Case1Config2_m
+#
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  34,255,820
+#               Number of Total Cells:  31,998,440
+#                     Number of Zones:  320
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#
+#         Original Grid of HiLiftPW2 : A_str_1to1_Case1Config2_f
+#
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  105,379,864
+#               Number of Total Cells:  100,561,536
+#                     Number of Zones:  320
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #:  1
+#                   Computer Platform:  briaree RQCHP ( Intel Westmere-EP X5650)
+#                        # Processors:  48
+#                    Operating System:  Linux
+#                            Compiler:  Intel
+#                        Run Time CPU:  7700 hours
+#                 Run Time Wall-Clock:  160 hours
+#                 Memory Requirements:  25,044,900kb 
+#                       Miscellaneous:  
+#

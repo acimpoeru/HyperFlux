@@ -1,0 +1,140 @@
+#
+# Participant ID assigned by committee: 007
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s):  Taku Nagata
+#                             Name(s):  Yosuke Ueno
+#                             Name(s):  Akio Ochi
+#                       Primary Email:  nagata_tak@khi.co.jp
+#                               Phone:  +81-58-382-5346
+#                             Address:  1,Kawasaki-cho, Kakamigahara City, Gifu-Pref., Japan
+#                             Address:  
+#                             Address:  
+#                             Address:  
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name:  Cflow-solv
+#                      Solver Version:  5.7.3
+#                         Method Name:  RANS
+#                     Basic Algorithm:  
+#                    Turbulence Model:  S-A
+#         Transition Method (if used):	none
+#       Cases transition was used for:
+#                Convergence Criteria:
+# List of residuals provided (if any):
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  Cflow.5.7.6
+#                           Grid Type:  5.7.6
+#               Number of Total Nodes:  23096226
+#               Number of Total Cells:  23240106
+#                     Number of Zones:  7
+#     BL 1st-Cell Height off the Wall:  5.5e-7
+#                 Wall Boundary Nodes:  628277
+#                 Wall Boundary Faces:  646961
+#       BL Max-Growth Rate (if known):  1.375
+#                 BL Cells (if known):  20702752
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  74480176
+#               Number of Total Cells:  75125445
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:  1293973
+#                 Wall Boundary Faces:  1321974
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 2 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 3 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #:  1
+#                   Computer Platform:  PC Cluster
+#                        # Processors:  64
+#                    Operating System:  CentOS
+#                            Compiler:  intel fortran
+#                        Run Time CPU:  
+#                 Run Time Wall-Clock:  
+#                 Memory Requirements:  
+#                       Miscellaneous:  
+#

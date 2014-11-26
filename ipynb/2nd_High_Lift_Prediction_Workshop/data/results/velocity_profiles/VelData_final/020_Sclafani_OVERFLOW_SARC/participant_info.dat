@@ -1,0 +1,140 @@
+#
+# Participant ID assigned by committee: 020 
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s): Tony Sclafani
+#                             Name(s): Tom Pulliam
+#                             Name(s):
+#                       Primary Email: tony.sclafani@boeing.com 
+#                               Phone: 714-896-1074 
+#                             Address: 5301 Bolsa Ave 
+#                             Address: Huntington Beach, CA 
+#                             Address: 92647 
+#                             Address: MC H017-D335 
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name: OVERFLOW
+#                      Solver Version: 2.2f
+#                         Method Name: Reynolds Averaged Navier-Stokes, Steady State, Full N-S 
+#                     Basic Algorithm: Roe upwind differencing with low Mach pre-conditioning 
+#                    Turbulence Model: Spalart-Allmaras "no ft2" with rotation and curvature (RC) corrections 
+#         Transition Method (if used): n/a
+#       Cases transition was used for: n/a
+#                Convergence Criteria: Mean CL value constant in the third decimal place over last 2,000 iterations
+# List of residuals provided (if any): n/a
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: n/a 
+#                           Grid Type: Structured Overset 
+#               Number of Total Nodes: 29386628 
+#               Number of Total Cells:
+#                     Number of Zones: 44 
+#     BL 1st-Cell Height off the Wall: 0.00060 mm 
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known): 1.246 (average) 
+#                 BL Cells (if known):  
+#                       Miscellaneous: This grid was built by extracting every other point from the fine grid. 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: MADCAP, Chimera Grid Tools, LEGRID, Pegasus5 
+#                           Grid Type: Structured Overset 
+#               Number of Total Nodes: 69014980 
+#               Number of Total Cells:
+#                     Number of Zones: 44 
+#     BL 1st-Cell Height off the Wall: 0.00045 mm 
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known): 1.178 (average) 
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: n/a 
+#                           Grid Type: Structured Overset 
+#               Number of Total Nodes: 230770520 
+#               Number of Total Cells:
+#                     Number of Zones: 44 
+#     BL 1st-Cell Height off the Wall: 0.00030 mm 
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known): 1.114 (average) 
+#                 BL Cells (if known):  
+#                       Miscellaneous: This grid was built by increasing the number of cells in the medium mesh by 1.5 in each direction. 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version: n/a 
+#                           Grid Type: Structured Overset 
+#               Number of Total Nodes: 544468508 
+#               Number of Total Cells:
+#                     Number of Zones: 44 
+#     BL 1st-Cell Height off the Wall: 0.00023 mm 
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known): 1.085 (average) 
+#                 BL Cells (if known):  
+#                       Miscellaneous: This grid was built by increasing the number of cells in the medium mesh by 2 in each direction. 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 2 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: ICEMCFD, MADCAP, Chimera Grid Tools, LEGRID, Pegasus5 
+#                           Grid Type: Structured Overset 
+#               Number of Total Nodes: 97200442 
+#               Number of Total Cells:
+#                     Number of Zones: 163 
+#     BL 1st-Cell Height off the Wall: 0.00045 mm 
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known): 1.178 (average) 
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 3 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #: 1, 2a, 2b
+#                   Computer Platform: NAS Pleiades Supercomputer 
+#                        # Processors: 256 
+#                    Operating System: SGI ICE 
+#                            Compiler:  
+#                        Run Time CPU:  
+#                 Run Time Wall-Clock:  
+#                 Memory Requirements:  
+#                       Miscellaneous:  
+#

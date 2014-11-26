@@ -1,0 +1,28 @@
+I uploaded the updated data for the HiLiftPW2 performed with NSMB (ID-011). The modifications are the addition of the test case 4 (bump) for the turbulent models SA-Original and SA-Edouards, and adding the results (cases 1 and 4) performed with the SA-salsa. Each file contains all the data, even if they are identical to the previous soumission.
+
+The unsteady results are unfortunately not yet established.
+
+
+
+
+
+Instructions:
+
+  - For a given code and turbulence model, create a directory with all filled-out data submittal 
+    forms (with their original names) in it. If you are not using an optional file, please remove it.
+
+  - The directory should be named: ID_Lastname_Code_Model_Otheridentifierifneeded (e.g., 
+    011_Jones_CFD++_SST-V), where "Code" is the CFD code's name and "Model" is the turbulence model 
+    type. The ID number will be assigned to you by the committee.
+
+  - Tar and gzip the directory.
+
+  - Results from a different code and/or different turbulence model need to be put into a different 
+    directory. 
+
+All CFD data should be given in deployed (un-stowed) coordinates (i.e., directly from the grids as 
+computed). If participants analyzed additional alphas, they are encouraged to include them in the 
+data submittal if desired.
+
+Tecplot macro files and instructions are posted on the HiLiftPW website (http://hiliftpw.larc.nasa.gov/Workshop2/DataForm.html)
+to aid in the extraction of the requested data.

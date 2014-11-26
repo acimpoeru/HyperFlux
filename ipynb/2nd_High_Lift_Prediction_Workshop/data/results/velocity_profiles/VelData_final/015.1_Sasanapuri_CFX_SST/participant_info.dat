@@ -1,0 +1,140 @@
+#
+# Participant ID assigned by committee: XXX
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s): Balasubramanyam Sasanapuri
+#                             Name(s): Robin Steed
+#                             Name(s): Vijay Kumar Veera
+#                       Primary Email: balasubramanyam.sasanapuri@ansys.com 
+#                               Phone: +91 20 66522500 
+#                             Address: Rajiv Gandhi Infotech Park 
+#                             Address: Plot No. 34/1 
+#                             Address: MIDC 
+#                             Address: Hinjewadi 411057 India  
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name: CFX
+#                      Solver Version: 14.5
+#                         Method Name: Vertex Centered Control Volume Finite Element Method
+#                     Basic Algorithm: Pressure based coupled solver with Algebraic Multigrid 
+#                    Turbulence Model: Shear Stress Transport 
+#         Transition Method (if used): Gamma Theta Model with Langtry Menter onset correlation
+#       Cases transition was used for: Case2c
+#                Convergence Criteria: 
+# List of residuals provided (if any):
+#                       Miscellaneous: Pseudo-transient equation advancement 
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: Committee-supplied Grid B 
+#                           Grid Type:  
+#               Number of Total Nodes: 
+#               Number of Total Cells: 
+#                     Number of Zones: 
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: Committee-supplied Grid B  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: Committee-supplied Grid B  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 2 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: Committee-supplied Grid B  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 3 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #:
+#                   Computer Platform:  
+#                        # Processors:  
+#                    Operating System:  
+#                            Compiler:  
+#                        Run Time CPU:  
+#                 Run Time Wall-Clock:  
+#                 Memory Requirements:  
+#                       Miscellaneous:  
+#

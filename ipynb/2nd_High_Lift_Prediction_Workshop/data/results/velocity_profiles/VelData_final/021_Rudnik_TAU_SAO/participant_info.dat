@@ -1,0 +1,175 @@
+#
+# Participant ID assigned by committee: 21
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s):		Rudnik, Ralf
+#                             Name(s):		Melber-Wilkending, Stefan
+#                             Name(s):
+#                       Primary Email:  	ralf.rudnik@dlr.de
+#                               Phone:  	+49 531 295 2410
+#                             Address:  	Lilienthalplaz 7
+#                             Address:  	38108 Braunschweig
+#                             Address:  	Germany
+#                             Address:  
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name:		DLR TAU
+#                      Solver Version:		2012.2.0
+#                         Method Name: 	Finite Volume Approach for RANS equations 
+#                     Basic Algorithm:  	Time Marching Method
+#                    Turbulence Model: 	Spalart-Allmaras, Original Version acc. to AIAA-92-0439 
+#         Transition Method (if used):		none
+#       Cases transition was used for:		/
+#                Convergence Criteria:		case dependent (convergence of norm. density residual < 10E-05, lift and pitching moment coefficients checked)
+# List of residuals provided (if any):		/
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:		SOLAR  
+#                           Grid Type:  	hybrid unstructured, hex-dominant
+#               Number of Total Nodes:  	9168002
+#               Number of Total Cells:		21356048
+#                     Number of Zones:  	1
+#     BL 1st-Cell Height off the Wall:		0,2549 mm  
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:		552377  
+#       BL Max-Growth Rate (if known): 	1.829 
+#                 BL Cells (if known):		17 in hex layers  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:		SOLAR  
+#                           Grid Type:  	hybrid unstructured, hex-dominant
+#               Number of Total Nodes:		25574796  
+#               Number of Total Cells:		59066549
+#                     Number of Zones:		1  
+#     BL 1st-Cell Height off the Wall:		0.1768 mm
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:		1143776  
+#       BL Max-Growth Rate (if known):  	1.520
+#                 BL Cells (if known):		23 in hex layers    
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:		SOLAR  
+#                           Grid Type:		hybrid unstructured, hex-dominant  
+#               Number of Total Nodes:		73421980  
+#               Number of Total Cells:		165246813
+#                     Number of Zones:		1  
+#     BL 1st-Cell Height off the Wall:		0.1226 mm  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:		2377309
+#       BL Max-Growth Rate (if known): 	1.337 
+#                 BL Cells (if known):		32 in hex layers      
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version:		/  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 2a MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:		SOLAR  
+#                           Grid Type:		hybrid unstructured, hex-dominant  
+#               Number of Total Nodes:		37346449  
+#               Number of Total Cells:		76972998
+#                     Number of Zones:		1  
+#     BL 1st-Cell Height off the Wall:  	1.613 mm
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:		1380824
+#       BL Max-Growth Rate (if known): 	1.287 
+#                 BL Cells (if known):		28 in hex layers        
+#                       Miscellaneous:		dedicated low Re grid  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+
+               Case 2b MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:		SOLAR  
+#                           Grid Type:		hybrid unstructured, hex-dominant  
+#               Number of Total Nodes:		32392356  
+#               Number of Total Cells:		73740331
+#                     Number of Zones:		1  
+#     BL 1st-Cell Height off the Wall:  	0.1768 mm
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:		1378773
+#       BL Max-Growth Rate (if known): 	1.520 
+#                 BL Cells (if known):		23 in hex layers        
+#                       Miscellaneous:		dedicated high Re grid    
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#             Case 3a MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:		SOLAR  
+#                           Grid Type:		hybrid unstructured, hex-dominant  
+#               Number of Total Nodes:		37692411  
+#               Number of Total Cells:		75547314
+#                     Number of Zones:		1  
+#     BL 1st-Cell Height off the Wall:  	1.613 mm
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:		1365861
+#       BL Max-Growth Rate (if known): 	1.287 
+#                 BL Cells (if known):		28 in hex layers        
+#                       Miscellaneous:		dedicated low Re grid  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+
+               Case 3b MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:		SOLAR  
+#                           Grid Type:		hybrid unstructured, hex-dominant  
+#               Number of Total Nodes:		34183985  
+#               Number of Total Cells:		81603665
+#                     Number of Zones:		1  
+#     BL 1st-Cell Height off the Wall:  	0.1768 mm
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:		1408577
+#       BL Max-Growth Rate (if known): 	1.520 
+#                 BL Cells (if known):		23 in hex layers        
+#                       Miscellaneous:		dedicated high Re grid    
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+
+
+
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #: 	3a
+#                   Computer Platform:  	LINUX Cluster
+#                        # Processors:		96, Intel(R) Xeon(R) X5670  
+#                    Operating System:		LINUX  
+#                            Compiler:		gcc-Version 4.3.4  
+#                        Run Time CPU:		5000 CPUh (total)  
+#                 Run Time Wall-Clock:  
+#                 Memory Requirements:  
+#                       Miscellaneous:  
+#

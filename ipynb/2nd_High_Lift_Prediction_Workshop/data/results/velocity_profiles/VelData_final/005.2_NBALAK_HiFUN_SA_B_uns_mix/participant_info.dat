@@ -1,0 +1,141 @@
+#
+# Participant ID assigned by committee: 005
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s): N.Balakrishnan
+#                             Name(s):
+#                             Name(s):
+#                       Primary Email: nbalak@aero.iisc.ernet.in
+#                               Phone: +91-80-22933029, 22933058  
+#                             Address: ARDB Center for CFD Research 
+#                             Address: Department of Aerospace Engineering 
+#                             Address: Indian Institute of Science 
+#                             Address: Bangalore- 560012 
+#                             Address: India 
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name: HiFUN
+#                      Solver Version: 
+#                         Method Name: Roe Flux formula, Linear Reconstruction, Venkatakrishnan Limiter. 
+#                     Basic Algorithm: Cell Centered Unstructured Finite Volume.   
+#                    Turbulence Model: Standard SA 
+#         Transition Method (if used): 
+#       Cases transition was used for:
+#                Convergence Criteria: Density
+# List of residuals provided (if any): Density, Energy, Modified Turbulence viscosity
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type: Original Grids: A_uns_hex & B_uns_mix 
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type: Original Grids: A_uns_hex & B_uns_mix  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:  
+#                 Wall Boundary Faces:  
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type: Original Grids: A_uns_hex & B_uns_mix  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 2 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type: Original Grids: B_uns_mix 
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 3 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #: Case2a_Config4
+#                   Computer Platform: Xeon 2U Rack Cluster at CAd Lab 
+#                        # Processors: 192 
+#                    Operating System: Linux (Fedora core 14) 
+#                            Compiler: gfortran 
+#                        Run Time CPU: About 32 seconds per iteration  
+#                 Run Time Wall-Clock: About 40 Hrs (For 4500 iterations) 
+#                 Memory Requirements: About 800Mb per million volumes 
+#                       Miscellaneous: MPI Library: OpenMPI1.4.3  
+#

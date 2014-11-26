@@ -1,0 +1,137 @@
+#
+# Participant ID assigned by committee: 004
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s): Dr. Anutosh Moitra
+#                             Name(s): Pranav Gujar
+#                             Name(s): Puneet Gupta
+#                             Name(s): Deepanshu Rajvanshi
+#                       Primary Email: anutosh.moitra@tcs.com  
+#                               Phone: +918147004093 
+#                             Address: TATA CONSULATANCY SERVICES(TCS),Bangalore,INDIA
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name: CFD++
+#                      Solver Version: 12.1
+#                         Method Name:Cell Centred Finite Volume
+#                     Basic Algorithm:  RANS Second Order Upwind 
+#                    Turbulence Model: SARC 
+#         Transition Method (if used): N.A.
+#       Cases transition was used for: N.A.
+#                Convergence Criteria: 5 orders of Residual Drop
+# List of residuals provided (if any): Energy, Mass, Momentum(X,Y,Z), Nut(Tubulent Eddy Viscosity) 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#
+#Case 1 TATA_104M GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: ICEM CFD 14.5 
+#                           Grid Type: Unstructured Mixed 
+#               Number of Total Nodes: 39225240 
+#               Number of Total Cells: 103938491
+#                     Number of Zones: 1 
+#     BL 1st-Cell Height off the Wall: 0.00055mm 
+#                 Wall Boundary Nodes: N.A.
+#                 Wall Boundary Faces: 2547762
+#       BL Max-Growth Rate (if known): Variable 
+#                 BL Cells (if known): 63694050 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: SOLAR (DLR Grid)
+#                           Grid Type: Unstructured Mixed 
+#               Number of Total Nodes: 9168002 
+#               Number of Total Cells: 21356048
+#                     Number of Zones: 1 
+#     BL 1st-Cell Height off the Wall: N.A. 
+#                 Wall Boundary Nodes: N.A. 
+#                 Wall Boundary Faces: 410077 
+#       BL Max-Growth Rate (if known): N.A.  
+#                 BL Cells (if known): N.A. 
+#                       Miscellaneous: N.A.  
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: SOLAR (DLR Grid)
+#                           Grid Type: Unstructured Mixed  
+#               Number of Total Nodes: 25574796 
+#               Number of Total Cells: 59066549
+#                     Number of Zones: 1 
+#     BL 1st-Cell Height off the Wall: N.A. 
+#                 Wall Boundary Nodes: N.A. 
+#                 Wall Boundary Faces: 849385 
+#       BL Max-Growth Rate (if known): N.A. 
+#                 BL Cells (if known): N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: SOLAR (DLR Grid)  
+#                           Grid Type: Unstructured Mixed   
+#               Number of Total Nodes: 73421980 
+#               Number of Total Cells: 165246813
+#                     Number of Zones: 1  
+#     BL 1st-Cell Height off the Wall: N.A.  
+#                 Wall Boundary Nodes: N.A.
+#                 Wall Boundary Faces: 1775709
+#       BL Max-Growth Rate (if known): N.A. 
+#                 BL Cells (if known): N.A.  
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#
+#              Case 2 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: N.A.  
+#                           Grid Type: N.A. 
+#               Number of Total Nodes: N.A. 
+#               Number of Total Cells: N.A.
+#                     Number of Zones: N.A. 
+#     BL 1st-Cell Height off the Wall: N.A. 
+#                 Wall Boundary Nodes: N.A.
+#                 Wall Boundary Faces: N.A.
+#       BL Max-Growth Rate (if known): N.A. 
+#                 BL Cells (if known): N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#
+#              Case 3 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: N.A. 
+#                           Grid Type: N.A. 
+#               Number of Total Nodes: N.A. 
+#               Number of Total Cells: N.A.
+#                     Number of Zones: N.A. 
+#     BL 1st-Cell Height off the Wall: N.A. 
+#                 Wall Boundary Nodes: N.A.
+#                 Wall Boundary Faces: N.A.
+#       BL Max-Growth Rate (if known): N.A. 
+#                 BL Cells (if known): N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#                       Miscellaneous: N.A. 
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #: 1
+#                   Computer Platform: Eka (Cluster of 1800 Compute Nodes each containing Dual Intel Xeon QUAD Core E5365)  
+#                        # Processors: 256cores (32Nodes,each containing 8 cores)
+#                    Operating System: Fedora 12/XC-3.2.1 
+#                            Compiler: GNU C Compiler 
+#                        Run Time CPU: 66104 seconds (600 iters) 
+#                 Run Time Wall-Clock: 66854 seconds (600 iters)
+#                 Memory Requirements: 232GB 
+#                       Miscellaneous: N.A.  
+#

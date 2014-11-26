@@ -1,0 +1,7 @@
+The absolute values of CL in "case1_iterative.dat" to indicate solution
+convergence by iteration are different from the true values of CL due to
+a wrong post-processing to evaluate CL. The other absolute values of
+aerodynamic forces such as CD and CM in "case1_iterative.dat" are true.
+If you can see the abrupt jump in the convergence history of CL, the
+jump is due to the correction of the wrong post-processing in the
+computation.

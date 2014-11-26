@@ -1,0 +1,140 @@
+#
+# Participant ID assigned by committee: 013
+#
+#                    PARTICIPANT INFO:
+#-------------------------------------
+#                             Name(s): Mitsuhiro Murayama,Tohru Hirai, Kentaro Tanaka
+#                             Name(s): Yasushi Ito, Kazuomi Yamamoto
+#                             Name(s):
+#                       Primary Email: murayama.mitsuhiro@jaxa.jp
+#                               Phone: +81-50-3362-6299
+#                             Address: Institute of Aeronautical Technology
+#                             Address: Japan Aerospace Exploration Agency (JAXA)
+#                             Address: 7-44-1 Jindaiji-Higashi, Chofu,Tokyo,182-8522
+#                             Address: JAPAN
+#
+#                   SOLVER INFORMATION
+#-------------------------------------
+#                         Solver Name: TAS_Flow code
+#                      Solver Version: 
+#                         Method Name: 
+#                     Basic Algorithm: Upwind, cell-vertex finite volume, Hybrid(Mixed Elm.) unstructured
+#                    Turbulence Model: Spalart-Allmaras model (SA-noft2-R(Crot=1))
+#         Transition Method (if used):
+#       Cases transition was used for:
+#                Convergence Criteria: Less than 1 drag count during 10,000step
+# List of residuals provided (if any): case1_iterative.dat
+#                       Miscellaneous:
+#                       Miscellaneous:
+#                       Miscellaneous:  
+#
+#              Case 1 COARSE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: D_uns_mix_Case1Config2_v2,VGRID
+#                           Grid Type: Unstructured - mixed-element grid
+#               Number of Total Nodes: 10,229,072
+#               Number of Total Cells: 29,369,293 (13,820,586 tetrahedra,  153,680 pyramids,  15,395,027 prisms)
+#                     Number of Zones: 
+#     BL 1st-Cell Height off the Wall: 
+#                 Wall Boundary Nodes: 274,010 
+#                 Wall Boundary Faces: 547,572 
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 1 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: D_uns_mix_Case1Config2_v2,VGRID
+#                           Grid Type: Unstructured - mixed-element grid
+#               Number of Total Nodes: 30,767,679
+#               Number of Total Cells: 99,439,948 (58,300,006 tetrahedra,  275,227 pyramids,  40,864,715 prisms)
+#                     Number of Zones: 1
+#     BL 1st-Cell Height off the Wall: 
+#                 Wall Boundary Nodes: 735,200 
+#                 Wall Boundary Faces: 1,469,672 
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#                Case 1 FINE GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version: D_uns_mix_Case1Config2_v2,VGRID
+#                           Grid Type: Unstructured - mixed-element grid
+#               Number of Total Nodes: 75,978,568
+#               Number of Total Cells: 274,089,207 (186,999,490 tetrahedra,  420,839 pyramids,  86,668,878 prisms)
+#                     Number of Zones: 1
+#     BL 1st-Cell Height off the Wall: 
+#                 Wall Boundary Nodes: 1,626,060 
+#                 Wall Boundary Faces: 3,251,036 
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#Case 1 EXTRA-FINE GRID INFO (if used)
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 2 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#              Case 3 MEDIUM GRID INFO
+#-------------------------------------
+#     Grid-Generator Name and Version:  
+#                           Grid Type:  
+#               Number of Total Nodes:  
+#               Number of Total Cells:
+#                     Number of Zones:  
+#     BL 1st-Cell Height off the Wall:  
+#                 Wall Boundary Nodes:
+#                 Wall Boundary Faces:
+#       BL Max-Growth Rate (if known):  
+#                 BL Cells (if known):  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#                       Miscellaneous:  
+#
+#
+#         TYPICAL SOLUTION INFORMATION 
+#                        (Medium Grid)
+#-------------------------------------
+#                              Case #: 1 AoA=7
+#                   Computer Platform: Dell PowerEdge M610 (Intel Xeon X5690 3.47GHz 6 Cores x 2 CPUs), 192 total cores  
+#                        # Processors: 191
+#                    Operating System: Rocks release 6.1 (CentOS release 6.3)
+#                            Compiler: Intel Fortran (Intel 64 Compiler XE Version 12.1.1.256)
+#                        Run Time CPU: 60109992sec/50000steps
+#                 Run Time Wall-Clock: 87.42H/50000steps
+#                 Memory Requirements: 120.63GB per 191cores (average)
+#                       Miscellaneous: Start from scratch
+#

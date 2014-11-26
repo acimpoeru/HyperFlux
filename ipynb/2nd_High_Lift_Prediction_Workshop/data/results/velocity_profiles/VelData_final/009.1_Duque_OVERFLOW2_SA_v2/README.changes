@@ -1,0 +1,6 @@
+MODIFIED fall 2013
+New:  all modified (re-run) (no case 2c)
+      renamed 009.1
+
+Note: slight mod to case1_iterative.dat to avoid plotting the early coarser grid iterations
+(the numbering restarts on each successive grid sequence)
