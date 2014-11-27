@@ -87,3 +87,8 @@ DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full de
 	:figclass: align-center
 
 	High lift stations
+
+Notebooks
+
+`IPython Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/2nd_High_Lift_Prediction_Workshop/Case-1.ipynb>`_
+
