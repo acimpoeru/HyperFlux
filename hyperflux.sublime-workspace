@@ -39,7 +39,7 @@
 			"file": "docs/source/index.rst",
 			"settings":
 			{
-				"buffer_size": 419,
+				"buffer_size": 531,
 				"line_ending": "Unix"
 			}
 		},
@@ -47,7 +47,7 @@
 			"file": "docs/source/high-lift-workshop.rst",
 			"settings":
 			{
-				"buffer_size": 1877,
+				"buffer_size": 2883,
 				"line_ending": "Unix"
 			}
 		}
@@ -156,6 +156,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" (",
 			"example",
 			"paraview_cmd",
 			"_paraview_c",
@@ -188,15 +189,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 419,
+						"buffer_size": 531,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								418,
-								418
+								331,
+								331
 							]
 						],
 						"settings":
@@ -379,15 +380,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1877,
+						"buffer_size": 2883,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1877,
-								1877
+								1449,
+								1449
 							]
 						],
 						"settings":
