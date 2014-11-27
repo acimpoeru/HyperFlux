@@ -18,60 +18,65 @@ Results
 -------
 Case 1, Coarse mesh, Mach = 0.175, Re = 15e06, :math:`\alpha=7^\circ`
 
-.. figure:: images/11.png
+.. figure:: images/ps01.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/44.png
+.. figure:: images/ps02.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/55.png
+.. figure:: images/ps04.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/66.png
+.. figure:: images/ps05.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/77.png
+.. figure:: images/ps06.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/88.png
+.. figure:: images/ps07.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/99.png
+.. figure:: images/ps08.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/10.png
+.. figure:: images/ps09.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
-.. figure:: images/1_11.png
+.. figure:: images/ps10.svg
 	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
+.. figure:: images/ps11.svg
+	:width: 100%
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
 
 DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full definition of cutting planes refer to workshop website.
 

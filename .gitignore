@@ -52,3 +52,5 @@ docs/_build/
 
 # PyBuilder
 target/
+
+ipynb/2nd_High_Lift_Prediction_Workshop/.ipynb_checkpoints/Case-1-checkpoint.ipynb
