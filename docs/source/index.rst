@@ -11,14 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
+   intro.rst
    high-lift-workshop.rst
-
-
-.. figure:: images/FRdiagram.svg
-	:width: 75%
-	:align: center
-	:alt: alternate text
-	:figclass: align-center
 
 
 Indices and tables
