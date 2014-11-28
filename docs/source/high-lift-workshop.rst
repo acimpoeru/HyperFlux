@@ -18,46 +18,91 @@ Results
 -------
 Case 1, Coarse mesh (9.5M cells), :math:`Mach=0.175`, :math:`Re=15e6`, :math:`\alpha=7^\circ`
 
-.. image:: images/ps01.*
+.. image:: images/case1_ps01.*
 	:width: 100%
 	:align: center
 
 
-.. image:: images/ps02.*
+.. image:: images/case1_ps02.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps04.*
+.. image:: images/case1_ps04.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps05.*
+.. image:: images/case1_ps05.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps06.*
+.. image:: images/case1_ps06.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps07.*
+.. image:: images/case1_ps07.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps08.*
+.. image:: images/case1_ps08.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps09.*
+.. image:: images/case1_ps09.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps10.*
+.. image:: images/case1_ps10.*
 	:width: 100%
 	:align: center
 
-.. image:: images/ps11.*
+.. image:: images/case1_ps11.*
 	:width: 100%
 	:align: center
+
+
+Case 2b, Solar mesh (50M cells), :math:`Mach=0.175`, :math:`Re=15e6`, :math:`\alpha=7^\circ`
+
+.. image:: images/case2b_ps01.*
+	:width: 100%
+	:align: center
+
+
+.. image:: images/case2b_ps02.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps04.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps05.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps06.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps07.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps08.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps09.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps10.*
+	:width: 100%
+	:align: center
+
+.. image:: images/case2b_ps11.*
+	:width: 100%
+	:align: center
+
 
 DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full definition of cutting planes refer to workshop website.
 
@@ -69,6 +114,7 @@ DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full de
 
 	High lift stations
 
-.. Notebooks
+.. seealso::
 	`IPython Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/2nd_High_Lift_Prediction_Workshop/Case-1.ipynb>`_
+	`Model dimensions <http://hiliftpw.larc.nasa.gov/Workshop2/model-sketch-dimensions_hiliftpw2-f11.pdf>`_
 
