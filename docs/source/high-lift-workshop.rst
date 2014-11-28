@@ -119,7 +119,11 @@ DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full de
 	High lift stations
 
 .. seealso::
-	`IPython Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/2nd_High_Lift_Prediction_Workshop/Case-1.ipynb>`_
+	`High Lift Workshop <http://hiliftpw.larc.nasa.gov/>`_
 
 	`Model dimensions <http://hiliftpw.larc.nasa.gov/Workshop2/model-sketch-dimensions_hiliftpw2-f11.pdf>`_
+
+	`Case 1 Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/2nd_High_Lift_Prediction_Workshop/Case-1.ipynb>`_
+
+	`Case 2 Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/2nd_High_Lift_Prediction_Workshop/Case-2b.ipynb>`_
 
