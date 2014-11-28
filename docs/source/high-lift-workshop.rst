@@ -104,6 +104,10 @@ Case 2b, Solar mesh (50M cells), :math:`Mach=0.175`, :math:`Re=15e6`, :math:`\al
 	:align: center
 
 
+.. image:: images/case2b_oil_flow.png
+	:width: 100%
+	:align: center
+
 DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full definition of cutting planes refer to workshop website.
 
 .. figure:: images/high-lift-stations.png
@@ -116,5 +120,6 @@ DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full de
 
 .. seealso::
 	`IPython Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/2nd_High_Lift_Prediction_Workshop/Case-1.ipynb>`_
+
 	`Model dimensions <http://hiliftpw.larc.nasa.gov/Workshop2/model-sketch-dimensions_hiliftpw2-f11.pdf>`_
 
