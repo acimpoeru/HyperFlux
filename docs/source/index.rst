@@ -16,12 +16,9 @@ Contents:
    :maxdepth: 1
 
    intro.rst
+   algo.rst
+   test-cases.rst
    high-lift-workshop.rst
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
 
 

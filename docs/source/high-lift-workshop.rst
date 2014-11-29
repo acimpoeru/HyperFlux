@@ -12,6 +12,7 @@ This document summarizes some initial results obtained within the second order b
 Introduction
 ------------
 The zCFD code is a GPU accelerated high performance computational fluid dynamic software. The zCFD solver is an unstructured cell centered finite volume code which solves explicitly the compressible Navier-Stokes equations. The solution is preconditioned and the convergence is accelerated using the Multigrid technique along with a dual time stepping method. 
+
 The results consist in high Reynolds number computations using k-ω SST turbulence model for the simplified (Case 1) and complex (Case 2B) configurations at :math:`7^\circ` angle of attack. The zCFD solutions were compared with wind tunnel data and other CFD codes such as Metacomp CFD++ and Ansys FLUENT. These codes were selected since they use the same cell-centered approach in combination with k-ω SST model. 
 
 Results 

@@ -9,10 +9,3 @@ CFMS will lead the integration and dissemination activities from its supercomput
 
 Hyper Flux will be a shared UK-based software tool, underpinned by expertise within the UK.   This is in line with government strategies for HVM and ICT, and forms a cornerstone for the new UK aerodynamics ATI.   This will further establish a center of expertise in the application of the new models to on-ramp new users – particularly SMEs.
 
-Algorithm
----------
-
-.. image:: images/FRdiagram.*
-	:width: 75%
-	:align: center
-
