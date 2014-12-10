@@ -39,6 +39,7 @@
 			"file": "docs/source/index.rst",
 			"settings":
 			{
+<<<<<<< Updated upstream
 				"buffer_size": 463,
 				"line_ending": "Unix"
 			}
@@ -48,6 +49,9 @@
 			"settings":
 			{
 				"buffer_size": 924,
+=======
+				"buffer_size": 433,
+>>>>>>> Stashed changes
 				"line_ending": "Unix"
 			}
 		},
@@ -55,6 +59,7 @@
 			"file": "docs/source/high-lift-workshop.rst",
 			"settings":
 			{
+<<<<<<< Updated upstream
 				"buffer_size": 3829,
 				"line_ending": "Unix"
 			}
@@ -72,6 +77,9 @@
 			"settings":
 			{
 				"buffer_size": 81,
+=======
+				"buffer_size": 3559,
+>>>>>>> Stashed changes
 				"line_ending": "Unix"
 			}
 		}
@@ -112,10 +120,9 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jamil/Documents/HyperFlux",
-		"/Users/jamil/Documents/HyperFlux/docs",
-		"/Users/jamil/Documents/HyperFlux/docs/source",
-		"/Users/jamil/Documents/HyperFlux/docs/source/_templates"
+		"/Users/andrei/Documents/HyperFlux",
+		"/Users/andrei/Documents/HyperFlux/docs",
+		"/Users/andrei/Documents/HyperFlux/docs/source"
 	],
 	"file_history":
 	[
@@ -213,15 +220,24 @@
 					"semi_transient": false,
 					"settings":
 					{
+<<<<<<< Updated upstream
 						"buffer_size": 463,
+=======
+						"buffer_size": 433,
+>>>>>>> Stashed changes
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< Updated upstream
 								415,
 								415
+=======
+								373,
+								373
+>>>>>>> Stashed changes
 							]
 						],
 						"settings":
@@ -404,15 +420,24 @@
 					"semi_transient": false,
 					"settings":
 					{
+<<<<<<< Updated upstream
 						"buffer_size": 924,
+=======
+						"buffer_size": 3559,
+>>>>>>> Stashed changes
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< Updated upstream
 								774,
 								774
+=======
+								1221,
+								1221
+>>>>>>> Stashed changes
 							]
 						],
 						"settings":
@@ -580,12 +605,14 @@
 							},
 							"codeintel_tooltips": "popup",
 							"sublime_auto_complete": true,
-							"syntax": "Packages/RestructuredText Improved/reStructuredText Improved.tmLanguage"
+							"syntax": "Packages/RestructuredText Improved/reStructuredText Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+<<<<<<< Updated upstream
 					"stack_index": 3,
 					"type": "text"
 				},
@@ -1160,6 +1187,8 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+=======
+>>>>>>> Stashed changes
 					"stack_index": 1,
 					"type": "text"
 				}
