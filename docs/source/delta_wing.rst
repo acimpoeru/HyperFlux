@@ -1,5 +1,5 @@
 Numerical investigation of the vortical flow field around :math:`65^\circ` delta wing for various leading edge radii
-======================================================
+====================================================================================================================
 
 Authors: A. Cimpoeru (CFMS), J. Appa (Zenotech) and D. Standingford (Zenotech)
 
