@@ -6,7 +6,7 @@
 Welcome to the HyperFlux Project
 =====================================
 
-.. image:: images/hf_logo.*
+.. image:: images/z_hf_logo.*
 	:width: 50%
 	:align: center
 

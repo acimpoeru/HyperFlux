@@ -120,7 +120,7 @@ html_theme = 'default'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = 'images/hf_logo.svg' 
+html_logo = 'images/z_hf_logo.svg' 
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -200,12 +200,12 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'HyperFlux.tex', u'HyperFlux Documentation',
-   u'HyperFlux', 'manual'),
+   u'hyperflux', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = 'images/hf_logo.pdf' 
+latex_logo = 'images/z_hf_logo.pdf' 
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
