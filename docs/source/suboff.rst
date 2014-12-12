@@ -11,7 +11,8 @@ In this section the flow field around DARPA SUBOFF geometry is computed using th
 
 Configuration (Axisymmetric hull + Fairwater + Stern appendages )
 -------------
-.. figure:: images/suboff_model.svg
+
+.. figure:: images/suboff_model.*
 	:width: 50%
 	:align: center
 	:alt: alternate text
@@ -27,7 +28,7 @@ Results
 Steady state RANS, SOLAR - octree mesh (15M cells), :math:`Mach=0.0179`, :math:`Re=1.2e7` (model length based)
 
 
-.. figure:: images/suboff_cp.svg
+.. figure:: images/suboff_cp.*
 	:width: 75%
 	:align: center
 	:alt: alternate text
@@ -36,7 +37,7 @@ Steady state RANS, SOLAR - octree mesh (15M cells), :math:`Mach=0.0179`, :math:`
 	Coefficient of pressure in the symmetry plane 
 
 
-.. figure:: images/suboff_cp_distribution.svg
+.. figure:: images/suboff_cp_distribution.*
 	:width: 50%
 	:align: center
 	:alt: alternate text
@@ -47,7 +48,7 @@ Steady state RANS, SOLAR - octree mesh (15M cells), :math:`Mach=0.0179`, :math:`
 
 Wake development
 
-.. figure:: images/suboff_SLIC1.svg
+.. figure:: images/suboff_SLIC1.*
 	:width: 50%
 	:align: center
 	:alt: alternate text
@@ -55,7 +56,7 @@ Wake development
 
 	x/L = 0.3
 
-.. figure:: images/suboff_SLIC2.svg
+.. figure:: images/suboff_SLIC2.*
 	:width: 50%
 	:align: center
 	:alt: alternate text
@@ -64,7 +65,7 @@ Wake development
 	x/L = 0.4
 
 
-.. figure:: images/suboff_SLIC3.svg
+.. figure:: images/suboff_SLIC3.*
 	:width: 50%
 	:align: center
 	:alt: alternate text
@@ -73,7 +74,7 @@ Wake development
 	x/L = 0.5
 
 
-.. figure:: images/suboff_SLIC4.svg
+.. figure:: images/suboff_SLIC4.*
 	:width: 50%
 	:align: center
 	:alt: alternate text
@@ -85,5 +86,7 @@ Wake development
 	`Summary of DARPA Suboff Experimental program data <http://www.dtic.mil/docs/citations/ADA359226/>`_
 
 	`Geometric Characteristics of DARPA SUBOFF models <http://www.dtic.mil/docs/citations/ADA210642>`_
+
+
 
 	
