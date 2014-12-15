@@ -48,7 +48,7 @@ Steady state RANS, SOLAR - octree mesh (14 and 30 M cells), :math:`Mach=0.0179`,
 Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 
 .. figure:: images/suboff_SLIC1.svg
-	:width: 50%
+	:width: 60%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -56,7 +56,7 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 	x/L = 0.3
 
 .. figure:: images/suboff_SLIC2.svg
-	:width: 50%
+	:width: 60%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -65,7 +65,7 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 
 
 .. figure:: images/suboff_SLIC3.svg
-	:width: 50%
+	:width: 60%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -74,7 +74,7 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 
 
 .. figure:: images/suboff_SLIC4.svg
-	:width: 50%
+	:width: 60%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -85,7 +85,7 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 Comparison against zCFD, experimental data and Bhushan et al (2013) (FLUENT)
 
 .. figure:: images/suboff_fluent_vs_zCFD.svg
-	:width: 80%
+	:width: 100%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
