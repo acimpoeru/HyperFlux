@@ -116,7 +116,6 @@ DLR F11 High Lift Configuration; Locations of Pressure Sections. For the full de
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
-
 	High lift stations
 
 .. seealso::
