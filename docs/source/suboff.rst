@@ -48,11 +48,7 @@ Steady state RANS, SOLAR - octree mesh (14 and 30 M cells), :math:`Mach=0.0179`,
 Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 
 .. figure:: images/suboff_SLIC1.svg
-<<<<<<< HEAD
-	:width: 60%
-=======
-	:width: 75%
->>>>>>> FETCH_HEAD
+	:width: 50%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -60,11 +56,7 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 	x/L = 0.3
 
 .. figure:: images/suboff_SLIC2.svg
-<<<<<<< HEAD
-	:width: 60%
-=======
-	:width: 75%
->>>>>>> FETCH_HEAD
+	:width: 50%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -73,11 +65,7 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 
 
 .. figure:: images/suboff_SLIC3.svg
-<<<<<<< HEAD
-	:width: 60%
-=======
-	:width: 75%
->>>>>>> FETCH_HEAD
+	:width: 50%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -86,8 +74,7 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 
 
 .. figure:: images/suboff_SLIC4.svg
-<<<<<<< HEAD
-	:width: 60%
+	:width: 50%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -98,31 +85,12 @@ Wake development ( Left -- Coarse Mesh ; Right -- Fine Mesh  )
 Comparison against zCFD, experimental data and Bhushan et al (2013) (FLUENT)
 
 .. figure:: images/suboff_fluent_vs_zCFD.svg
-	:width: 60%
-=======
-	:width: 75%
->>>>>>> FETCH_HEAD
+	:width: 80%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
 
 	x/L = 0.978 (Propeller Plane)
-
-
-<<<<<<< HEAD
-=======
-Comparison against experimental data and Bhushan et al (2013)
-
-.. figure:: images/suboff_fluent_vs_zCFD.svg
-	:width: 75%
-	:align: center
-	:alt: alternate text
-	:figclass: align-center
-
-	x/L = 0.978 (Propeller Plane)
-
-
->>>>>>> FETCH_HEAD
 
 .. seealso::
 	`Summary of DARPA Suboff Experimental program data <http://www.dtic.mil/docs/citations/ADA359226/>`_
