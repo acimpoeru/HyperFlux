@@ -98,5 +98,8 @@ Comparison against zCFD, experimental data and Bhushan et al (2013) (FLUENT)
 	`Geometric Characteristics of DARPA SUBOFF models <http://www.dtic.mil/docs/citations/ADA210642>`_
 
 	'S. Bhushan, M. F. Alam and D. K. Walters. Evaluation of hybrid RANS/LES models for prediction of flow around surface combatant and Suboff geometries. Computer and Fluids 88 (2013) 834-849'
+	
+	`DARPA SUBOFF Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/SUBOFF_RANS/suboff.ipynb>`_
+	
 
 	

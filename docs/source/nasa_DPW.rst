@@ -76,7 +76,12 @@ Results
 	:figclass: align-center
 
 
+.. seealso::
+	`Drag Prediction Workshop <http://aaac.larc.nasa.gov/tsab/cfdlarc/aiaa-dpw//>`_
 
+	`NASA Common Research Model Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/NASA_CRM/CRM.ipynb>`_
+
+	
 
 
 
