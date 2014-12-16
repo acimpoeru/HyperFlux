@@ -70,9 +70,6 @@ Steady state RANS, SOLAR - octree mesh (30M cells), :math:`Mach=0.4`, :math:`Re=
 
 	R Konrath, C Klein and A Schroder. PSP and PIV investigations on the VFE-2 configuration in sub- and transonic flow. Aerospace Science and Technology 24 (2013) 22-31
 
-	`Delta Wing Large Radius Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/NASA_Delta_Wing_65deg/delta_large.ipynb>`_
-
 	`Delta Wing Sharp Radius Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/NASA_Delta_Wing_65deg/delta_sharp.ipynb>`_
 	
-	`Delta Wing Medium Radius DLR Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/NASA_Delta_Wing_65deg/DLR_EXP.ipynb>`_
 	
