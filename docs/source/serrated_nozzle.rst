@@ -68,7 +68,7 @@ Results
 
 
 .. figure:: images/smc006_TIP_TO_TIP.png 
-	:width: 80%
+	:width: 60%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
@@ -76,7 +76,7 @@ Results
 	Jet velocity profiles in the Tip-to-Tip plane at different stations
 
 .. figure:: images/smc006_NOTCH.png
-	:width: 80%
+	:width: 60%
 	:align: center
 	:alt: alternate text
 	:figclass: align-center
