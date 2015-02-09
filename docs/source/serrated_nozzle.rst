@@ -109,13 +109,13 @@ The Reynolds number is based on the jet diameter and reference velocity
 
 .. seealso::
 
-	'Hao Xia, Paul G. Tucker and Simon Eastwood (2009). Large-eddy simulations of chevron jet flows with noise predictions. International Journal of Heat and Fluid Flow 30 (2009) 1067-1079.'
+	'Hao Xia, Paul G. Tucker and Simon Eastwood (2009). Large-eddy simulations of chevron jet flows with noise predictions. International Journal of Heat and Fluid Flow 30 (2009) 1067-1079.'_
 
 
-	'Hao Xia and Paul G. Tucker (2011). Numerical Simulation of a Single-Stream Jets from a Serrated Nozzle . Flow Turbulence Combust 2011.' 
+	'Hao Xia and Paul G. Tucker (2011). Numerical Simulation of a Single-Stream Jets from a Serrated Nozzle . Flow Turbulence Combust 2011.'_
 
 	
-	`Serrated Nozzle Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/Serrated%20Nozzle%20SMC006/smc006.ipynb>`
+	`Serrated Nozzle Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/Serrated%20Nozzle%20SMC006/smc006.ipynb>`_
 	
 
 
