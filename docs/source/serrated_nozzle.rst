@@ -113,7 +113,7 @@ The Reynolds number is based on the jet diameter and reference velocity
 	'Hao Xia and Paul G. Tucker (2011). Numerical Simulation of a Single-Stream Jets from a Serrated Nozzle . Flow Turbulence Combust 2011.' 
 
 	
-	`Serrated Nozzle Notebook <http://nbviewer.ipython.org/github/zenotech/HyperFlux/blob/master/ipynb/Serrated Nozzle SMC006/smc006.ipynb>`
+	`Serrated Nozzle Notebook <https://github.com/zenotech/HyperFlux/blob/master/ipynb/Serrated%20Nozzle%20SMC006/smc006.ipynb>`
 	
 
 
