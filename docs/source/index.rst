@@ -19,9 +19,10 @@ Contents:
    algo.rst
    test-cases.rst
    high-lift-workshop.rst
-   suboff.rst
-   delta_wing.rst
    nasa_DPW.rst
+   delta_wing.rst
+   suboff.rst
+   serrated_nozzle.rst
    
 
 

@@ -7,7 +7,7 @@ December 2014
 
 Abstract
 --------
-In this section the flow field around DARPA SUBOFF geometry is computed using the unstructured cell centered finite volume density based solver zCFD. For this study the AFF8 configuration was employed due to complex flow features  such as boundary layer - vortex and vortex-vortex interactions. The Reynolds number for this test case is :math:`Re=1.2e07` and the employed turbulence model is k-ω SST. The steady state solutions are validated against wind tunnel data (see Reference) and have shown agreement. The 
+In this section the flow field around DARPA SUBOFF geometry is computed using the unstructured cell centered finite volume density based solver zCFD. For this study the AFF8 configuration was employed due to complex flow features  such as boundary layer - vortex and vortex-vortex interactions. The Reynolds number for this test case is :math:`Re=1.2e07` and the employed turbulence model is k-ω SST. The steady state solutions are validated against wind tunnel data (see Reference) and have shown agreement.
 
 Configuration (Axisymmetric hull + Fairwater + Stern appendages )
 -------------
