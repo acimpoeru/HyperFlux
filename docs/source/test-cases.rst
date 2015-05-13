@@ -27,7 +27,7 @@ NATO RTO AVT VFE 2
 SMC006 Serrated Nozzle 
 DARPA SUBOFF
 DARPA HIREP
-NASA Rotor 67
+NASA Rotor 37
 Civil Aircraft Landing Gear
 ======================================  =======  =======
 

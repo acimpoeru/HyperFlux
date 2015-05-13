@@ -23,6 +23,7 @@ Contents:
    delta_wing.rst
    suboff.rst
    serrated_nozzle.rst
+   nasa_rotor37.rst
    
 
 
